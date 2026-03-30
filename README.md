@@ -31,5 +31,5 @@ The solutions are organized by parts:
 - [Part 13](./part13): Using relational databases
 
 ## Disclaimer
-If you are currently taking the course, please use these solutions only as a reference when you are stuck. Following the [University of Helsinki's honor code](https://fullstackopen.com/en/about/submission_system#plagiarism) is essential for your learning.
+If you are currently taking the course, please use these solutions only as a reference when you are stuck.
 

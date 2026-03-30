@@ -2,17 +2,17 @@
 
 My solutions for the [Full Stack Open](https://fullstackopen.com/en/) course provided by the University of Helsinki.
 
-## 🚀 About the Course
+## About the Course
 This course serves as an introduction to modern web development with JavaScript/TypeScript. The main focus is on building single-page applications with **React** that use REST APIs built with **Node.js**.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** React, Redux, React Router, Axios, Vite
 - **Backend:** Node.js, Express
 - **Database:** MongoDB (Mongoose), PostgreSQL (Sequelize)
 - **Testing:** Jest, Cypress, Playwright, Vitest
 - **Other:** GraphQL, TypeScript, Docker, CI/CD, React Native
 
-## 📂 Repository Structure
+## Repository Structure
 The solutions are organized by parts:
 
 - [Part 0](./part0): Fundamentals of Web apps
@@ -30,6 +30,6 @@ The solutions are organized by parts:
 - [Part 12](./part12): Containers (Docker)
 - [Part 13](./part13): Using relational databases
 
-## 📝 Disclaimer
+## Disclaimer
 If you are currently taking the course, please use these solutions only as a reference when you are stuck. Following the [University of Helsinki's honor code](https://fullstackopen.com/en/about/submission_system#plagiarism) is essential for your learning.
 
